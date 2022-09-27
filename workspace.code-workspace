@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "..\\CD"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "resources"
+	}
+}
